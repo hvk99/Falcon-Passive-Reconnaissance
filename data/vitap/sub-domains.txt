@@ -1,0 +1,1 @@
+["www.vitap.ac.in", "beta.vitap.ac.in", "www.beta.vitap.ac.in", "cpanel.vitap.ac.in", "cpcalendars.vitap.ac.in", "cpcontacts.vitap.ac.in", "icafd.vitap.ac.in", "www.icafd.vitap.ac.in", "mail.vitap.ac.in", "stage.vitap.ac.in", "www.stage.vitap.ac.in", "vtop.vitap.ac.in", "vtop1.vitap.ac.in", "webdisk.vitap.ac.in", "webmail.vitap.ac.in"]
